@@ -1,0 +1,509 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+  }
+
+  .dot {
+    background-color: white;
+
+  }
+
+  nav {
+    width: 776;
+  }
+
+          
+        .not{
+         
+                display: flex;
+            flex-direction: row;
+            justify-content: center; 
+        }
+  .hub {
+    margin-right: 17rem;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 15px;
+    list-style-type: none;
+  }
+
+  li a {
+    color: black;
+    text-decoration: none;
+    font-size: 7px;
+    margin-left: 10px;
+  }
+
+  .iconic {
+    width: 10px;
+    display: flex;
+    gap: 5px;
+    margin-left: 5px;
+    margin-right: 50px;
+  }
+
+  .line1 {
+    margin: 0px 0px 190px 0px;
+    width: 15px;
+  }
+
+  .water {
+    width: 15px;
+    margin: 0px 0px -60px -150px;
+  }
+
+  .image1 {
+    width: 250px;
+    margin: 50px 0px 0px 0px;
+  }
+
+  .food {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin-right: 210px;
+    margin-top: -30px;
+  }
+
+  .rice {
+    font-size: 8px;
+    margin-top: 15px;
+    color: black;
+  }
+
+  .father {
+    font-size: large;
+    margin-top: 15px;
+    color: black;
+  }
+
+  .yam {
+    margin-top: 25px;
+    border: none;
+    background-color: rgb(42, 14, 224);
+    padding: 7px 15px;
+    color: #fff;
+
+  }
+
+  .meat {
+    font-size: 8px;
+  }
+
+  .soda {
+    width: 25px;
+    margin-top: 220px;
+    margin-right: -200rem;
+    margin-left: 250px;
+  }
+
+  .mother {
+    display: flex;
+    flex-direction: column;
+    margin-top: -10px;
+    margin-right: -210px;
+    color: rgba(42, 14, 224, 0.507);
+    font-size: 10px;
+    margin-left: -30px;
+    /* margin-top: -9rem; */
+    text-align: left;
+  }
+
+  .look {
+    margin-top: -25px;
+    margin-left: 40px;
+    border: none;
+
+    background-color: 5px green;
+    border-radius: 3px;
+    font-size: 7px;
+  }
+
+  .to {
+    width: 270px;
+    margin-left: 20px;
+    margin-top: 35px;
+  }
+
+
+  .sub-parent {
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+  }
+
+
+  .Sound {
+    width: 80px;
+   
+  }
+
+  .sport {
+    width: 50px;
+  }
+
+  .member {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    align-items: start;
+
+  }
+
+  .muheenat {
+    padding-left: 0px;
+    margin-top: 82px;
+    font-size: 30px;
+
+  }
+
+  .Masud {
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+    margin-top: 30px;
+    /* margin-top: -20px; */
+  }
+
+  .strent {
+    font-size: 10px;
+  }
+
+  .power {
+    font-size: 10px;
+  }
+
+  .puffy {
+    margin-left: 50px;
+    position: relative;
+    margin-bottom: -50px;
+    margin-top: 30px;
+  }
+
+  .top {
+    margin-left: 230px;
+    margin-top: -2px;
+    width: 30px;
+  }
+
+  .Wave {
+    width: 250px;
+    margin-left: 370px;
+    position: sticky;
+  }
+
+  .tea {
+    width: 30px;
+    margin-left: 30px;
+  }
+
+  .muham {
+    font-size: 25px;
+    margin-top: 20px;
+  }
+
+  .bread {
+    width: 15px;
+    margin-top: 60px;
+    margin-left: -90px;
+  }
+
+  .jinko {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    align-items: start;
+
+  }
+
+  .way {
+    display: block;
+    margin-left: 30px;
+    margin-top: 23px;
+
+  }
+
+  /* .energy{
+            font-size: ;
+        } */
+  .just {
+    margin-top: 10px;
+  }
+
+  .how {
+    margin-top: 10px;
+  }
+
+  .when {
+    font-size: 10px;
+
+  }
+
+  .wha {
+    margin-top: 10px;
+  }
+
+  .line5 {
+    width: 20px;
+    margin-left: 280px;
+  }
+
+  .achieve {
+    width: 47rem;
+    margin-top: 50px;
+    margin-left: 7px;
+  }
+
+  .muth {
+    width: 47rem;
+    display: flex;
+
+
+    margin-top: 90px;
+    margin-left: 7px;
+    position: relative;
+    margin-bottom: -50px;
+
+
+  }
+
+  .mut {
+    font-size: 20px;
+    color: #fff;
+
+  }
+
+  .anas {
+    color: #fff;
+    font-size: 8px;
+
+  }
+
+  .ayman {
+    display: flex;
+    flex-direction: column;
+    position: sticky;
+    margin-top: -230px;
+    margin-left: 170px;
+  }
+
+  .may {
+    width: 80px;
+    border: 1px solid#fff;
+    padding: 6px;
+    color: #fff;
+    margin-top: 50px;
+    background-image: url(images.file/cont.png);
+  }
+
+  .hay {
+    font-size: 10px;
+  }
+
+  .Pulse {
+    width: 250px;
+    margin-top: -10px;
+    margin-left: 339px;
+  }
+
+  .tah {
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+  }
+
+  .hat {
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 400px;
+  }
+
+  .hawa {
+    font-size: 20px;
+  }
+
+  .tawa {
+    font-size: 10px;
+  }
+
+  .fowl {
+    margin-top: 30px;
+    padding: 4px 10px;
+    border: none;
+    background-color: rgb(31, 31, 236)
+  }
+
+  .foul {
+    font-size: 8px;
+    color: white;
+
+  }
+
+  .fon {
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-left: 25px;
+  }
+
+  .mol {
+    width: 15rem;
+  }
+
+  .lion {
+    font-size: 8px;
+    margin-top: 5px;
+  }
+
+  .grandf {
+    background-color: rgb(7, 7, 242);
+    margin-top: -40rem;
+    width: 30rem;
+    padding: 30px 50px;
+    position: sticky;
+  }
+
+  .uncle {
+    color: #fff;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 20px;
+  }
+
+  #shift {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+  }
+
+  .logos {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+  }
+
+  .Logo {
+    width: 85px;
+  }
+
+  .grandm {
+    background-color: black;
+    color: #fff;
+    position: relative;
+    padding-top: 7rem;
+    padding-bottom: 10rem;
+    margin-bottom: -30px;
+    margin-top: 160px;
+  }
+
+  .granda {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: -50px 80px 0px 80px;
+
+  }
+
+  .aunt {
+    font-size: 12px;
+  }
+
+  .mom {
+    font-size: 7px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0px -95px;
+    gap: 15px;
+
+  }
+
+  .lamp {
+    margin: 10px 0px -115px;
+    gap: 15px;
+    font-size: 7px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .pamp {
+    margin: 10px 0px -105px;
+    gap: 15px;
+    font-size: 7px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .don {
+    width: 80px;
+  }
+
+  .sis {
+    background-color: blue;
+    padding: 10px 0px;
+    margin-top: 30px;
+  }
+
+  .sister {
+    width: 100px;
+  }
+
+  .bro {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+
+  .color {
+    width: 15px;
+  }
+
+  .rat {
+    /* justify-content: center; */
+    gap: 5px;
+    text-align: center;
+    display: flex;
+    margin-top: 5px;
+    color: blue;
+    font-size: 10px;
+  }
+
+  .rack {
+    margin-left: -35px;
+  }
+
+  .eguan {
+    justify-content: space-evenly;
+
+    display: flex;
+    margin-left: 25px;
+  }
+
+  .epi {
+    width: 20px;
+    position: absolute;
+    margin: 10px 0px 0px -2rem;
+  }
+
+  .pie {
+    width: 20px;
+    position: absolute;
+    margin: 10px 0px 0px -2rem;
+  }
+
+  .ipe {
+    width: 20px;
+    position: absolute;
+    margin: 10px 0px 0px -2rem;
+
+  }
